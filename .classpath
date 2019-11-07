@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="PRAC2_ex1_sol/src"/>
+	<classpathentry kind="src" path="PRAC2_ex2_sol/src"/>
+	<classpathentry kind="src" path="PRAC2_ex3_sol/src"/>
+	<classpathentry kind="lib" path="PRAC2_ex1_sol/junit-jupiter-api-5.2.0.jar"/>
+	<classpathentry kind="output" path="PRAC2_ex1_sol/bin"/>
+</classpath>
